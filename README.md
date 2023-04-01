@@ -2,6 +2,7 @@
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xianyu110)
 <!--
 **xianyu110/xianyu110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![dbfebcde6180edfa1f54b11cd8abfd8](https://user-images.githubusercontent.com/53889513/229277183-22cc889d-6b2a-446a-b3a4-e009258bd2c3.jpg)
 
 Here are some ideas to get you started:
 
