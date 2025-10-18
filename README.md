@@ -11,8 +11,8 @@
     <a href="https://space.bilibili.com/399102586">
         <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?style=for-the-badge" alt="Bilibili" />
     </a>
-    <a href="https://github.com/xianyu110">
-        <img src="https://img.shields.io/badge/GitHub-Profile-brightgreen?style=for-the-badge&logo=github" alt="GitHub" />
+    <a href="https://www.youtube.com/@buguniao537">
+        <img src="https://img.shields.io/badge/GitHub-Profile-brightgreen?style=for-the-badge&logo=youtube" alt="Youtube" />
     </a>
     <a href="#QQ">
         <img src="https://img.shields.io/badge/QQ-1002569303-0099ff?style=for-the-badge&logo=tencentqq" alt="QQ" />
