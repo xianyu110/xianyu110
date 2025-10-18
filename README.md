@@ -8,9 +8,10 @@
     <a href="https://blog.csdn.net/xianyu120">
         <img src="https://img.shields.io/badge/CSDN-博客-c32136?style=for-the-badge" alt="CSDN" />
     </a>
-    <a href="https://restname.oss-cn-hangzhou.aliyuncs.com/qrcode_for_gh_c749803541de_1280.jpg">
+<a href="https://restname.oss-cn-hangzhou.aliyuncs.com/qrcode_for_gh_c749803541de_1280.jpg" target="_blank">
     <img src="https://img.shields.io/badge/微信公众号-关注我-07C160?style=for-the-badge&logo=wechat" alt="微信公众号" />
 </a>
+
     <a href="https://space.bilibili.com/399102586">
         <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?style=for-the-badge" alt="Bilibili" />
     </a>
