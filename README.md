@@ -5,22 +5,29 @@
 </div>
 
 <p align="center">
+<p align="left">
+    <!-- CSDN Badge -->
     <a href="https://blog.csdn.net/xianyu120">
-        <img src="https://img.shields.io/badge/CSDN-博客-c32136?style=for-the-badge" alt="CSDN" />
+        <img src="https://img.shields.io/badge/CSDN-博客-c32136?style=for-the-badge&logo=csdn" alt="CSDN" />
     </a>
-<a href="https://restname.oss-cn-hangzhou.aliyuncs.com/qrcode_for_gh_c749803541de_1280.jpg" target="_blank">
-    <img src="https://img.shields.io/badge/微信公众号-关注我-07C160?style=for-the-badge&logo=wechat" alt="微信公众号" />
-</a>
-
+    <!-- Bilibili Badge -->
     <a href="https://space.bilibili.com/399102586">
-        <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?style=for-the-badge" alt="Bilibili" />
+        <img src="https://img.shields.io/badge/Bilibili-B站-fb7299?style=for-the-badge&logo=bilibili" alt="Bilibili" />
     </a>
+    <!-- WeChat Official Account Badge -->
+    <a href="https://restname.oss-cn-hangzhou.aliyuncs.com/qrcode_for_gh_c749803541de_1280.jpg" target="_blank">
+        <img src="https://img.shields.io/badge/微信公众号-关注我-07C160?style=for-the-badge&logo=wechat" alt="微信公众号" />
+    </a>
+    <!-- YouTube Badge -->
     <a href="https://www.youtube.com/@buguniao537">
         <img src="https://img.shields.io/badge/YouTube-Profile-red?style=for-the-badge&logo=youtube" alt="Youtube" />
     </a>
-<a href="https://qm.qq.com/q/Q4YTVK5T6q">
-    <img src="https://img.shields.io/badge/QQ-1002569303-0099ff?style=for-the-badge&logo=tencentqq" alt="QQ" />
-</a>
+    <!-- QQ Badge -->
+    <a href="https://qm.qq.com/q/Q4YTVK5T6q">
+        <img src="https://img.shields.io/badge/QQ-1002569303-0099ff?style=for-the-badge&logo=tencentqq" alt="QQ" />
+    </a>
+</p>
+
 
 </p>
 
