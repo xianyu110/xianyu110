@@ -17,9 +17,10 @@
     <a href="https://www.youtube.com/@buguniao537">
         <img src="https://img.shields.io/badge/YouTube-Profile-red?style=for-the-badge&logo=youtube" alt="Youtube" />
     </a>
-    <a href="#QQ">
-        <img src="https://img.shields.io/badge/QQ-1002569303-0099ff?style=for-the-badge&logo=tencentqq" alt="QQ" />
-    </a>
+<a href="https://qm.qq.com/q/Q4YTVK5T6q">
+    <img src="https://img.shields.io/badge/QQ-1002569303-0099ff?style=for-the-badge&logo=tencentqq" alt="QQ" />
+</a>
+
 </p>
 
 ### 🌈 Tech Stack
