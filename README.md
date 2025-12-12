@@ -72,9 +72,24 @@
 
 ### 🏆 GitHub Achievements
 
+<!-- GitHub Streak Stats -->
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=xianyu110&theme=algolia&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://streak-stats.demolab.com/?user=xianyu110&theme=tokyonight&hide_border=true&border_radius=15&date_format=%Y-%m-%d" alt="GitHub Streak" />
 </div>
+
+<!-- 备选方案1: GitHub Metrics -->
+<!--
+<div align="center">
+    <img src="https://metrics.lecoq.io/xianyu110?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&introduction=1&achievements=1&lines=1&habits=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai" alt="GitHub Metrics" />
+</div>
+-->
+
+<!-- 备选方案2: Activity Rings -->
+<!--
+<div align="center">
+    <img src="https://github-rank.vercel.app/api?username=xianyu110" alt="GitHub Rank" />
+</div>
+-->
 
 ### 📈 Activity Graph
 
