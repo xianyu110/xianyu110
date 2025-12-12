@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Stats 测试页面</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .card {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #58a6ff;
+            padding-bottom: 10px;
+        }
+        .test-item {
+            margin: 10px 0;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 10px 0;
+        }
+        .success {
+            color: green;
+        }
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>GitHub Stats 服务测试</h1>
+
+    <div class="card">
+        <h2>1. GitHub Profile Summary Cards</h2>
+        <div class="test-item">
+            <p>Profile Details:</p>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xianyu110&theme=tokyonight"
+                 onload="this.nextElementSibling.innerHTML='<span class=\"success\">✓ 加载成功</span>'"
+                 onerror="this.nextElementSibling.innerHTML='<span class=\"error\">✗ 加载失败</span>'" />
+            <span></span>
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>2. GitHub Activity Graph</h2>
+        <div class="test-item">
+            <p>Activity Graph:</p>
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=xianyu110&theme=react-dark"
+                 onload="this.nextElementSibling.innerHTML='<span class=\"success\">✓ 加载成功</span>'"
+                 onerror="this.nextElementSibling.innerHTML='<span class=\"error\">✗ 加载失败</span>'" />
+            <span></span>
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>3. GitHub Trophies</h2>
+        <div class="test-item">
+            <p>Trophies:</p>
+            <img src="https://github-profile-trophy.vercel.app/?username=xianyu110&theme=algolia&no-frame=true"
+                 onload="this.nextElementSibling.innerHTML='<span class=\"success\">✓ 加载成功</span>'"
+                 onerror="this.nextElementSibling.innerHTML='<span class=\"error\">✗ 加载失败</span>'" />
+            <span></span>
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>4. GitHub Readme Stats (备用)</h2>
+        <div class="test-item">
+            <p>Stats Card:</p>
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=xianyu110&show_icons=true&theme=tokyonight"
+                 onload="this.nextElementSibling.innerHTML='<span class=\"success\">✓ 加载成功</span>'"
+                 onerror="this.nextElementSibling.innerHTML='<span class=\"error\">✗ 加载失败</span>'" />
+            <span></span>
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>使用说明</h2>
+        <ul>
+            <li>如果看到绿色的"✓ 加载成功"，说明该服务正常工作</li>
+            <li>如果看到红色的"✗ 加载失败"，说明该服务不可用</li>
+            <li>根据测试结果，在README.md中保留能正常显示的服务</li>
+            <li>无法显示的服务可以注释掉（<!-- -->）</li>
+        </ul>
+    </div>
+
+    <script>
+        // 页面加载后自动测试
+        window.onload = function() {
+            console.log('测试页面已加载，正在测试各个服务...');
+        };
+    </script>
+</body>
+</html>
