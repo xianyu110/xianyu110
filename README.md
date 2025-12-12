@@ -52,66 +52,14 @@
 
 ### 📊 GitHub Stats
 
-<!-- GitHub Profile Summary Cards -->
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xianyu110&theme=tokyonight" alt="Profile Details" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xianyu110&theme=tokyonight" alt="Repos Per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xianyu110&theme=tokyonight" alt="Most Commit Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xianyu110&theme=tokyonight" alt="Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xianyu110&theme=tokyonight" alt="Productive Time" />
+    <img src="https://github-readme-stats.vercel.app/api?username=xianyu110&show_icons=true&theme=default" alt="GitHub Stats" />
 </div>
-
-<!-- GitHub Readme Stats (备用方案) -->
-<!-- 如果上面的卡片无法显示，取消注释下面的代码 -->
-<!--
-<div align="center">
-    <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=xianyu110&show_icons=true&count_private=true&theme=tokyonight" />
-    <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xianyu110&layout=compact&theme=tokyonight" />
-</div>
--->
-
-### 🏆 GitHub Achievements
-
-<!-- GitHub Streak Stats -->
-<div align="center">
-    <img src="https://streak-stats.demolab.com/?user=xianyu110&theme=tokyonight&hide_border=true&border_radius=15&date_format=%Y-%m-%d" alt="GitHub Streak" />
-</div>
-
-<!-- 备选方案1: GitHub Metrics -->
-<!--
-<div align="center">
-    <img src="https://metrics.lecoq.io/xianyu110?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&introduction=1&achievements=1&lines=1&habits=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai" alt="GitHub Metrics" />
-</div>
--->
-
-<!-- 备选方案2: Activity Rings -->
-<!--
-<div align="center">
-    <img src="https://github-rank.vercel.app/api?username=xianyu110" alt="GitHub Rank" />
-</div>
--->
-
-### 📈 Activity Graph
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xianyu110&theme=react-dark&bg_color=20232a&color=58a6ff&line=58a6ff&point=40c463&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-### 🛠️ 简化统计卡片（如果上方不显示）
-
-<!-- 如果上述服务都不可用，可以使用以下简单的静态徽章 -->
-<!--
-<div align="center">
-    <img src="https://img.shields.io/github/followers/xianyu110?label=Followers&style=social" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/xianyu110?label=Stars&style=social" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/xianyu110?label=Forks&style=social" alt="Forks" />
-</div>
--->
 
 ### 🌟 Contribution Graph
 
 <div align="center">
-    <img src="https://github.com/xianyu110/xianyu110/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/xianyu110/xianyu110/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ### 👨‍💻 About Me
