@@ -52,14 +52,38 @@
 
 ### 📊 GitHub Stats
 
+<!-- GitHub Profile Summary Cards -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xianyu110&show_icons=true&theme=default" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xianyu110&theme=tokyonight" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xianyu110&theme=tokyonight" alt="Repos Per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xianyu110&theme=tokyonight" alt="Most Commit Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xianyu110&theme=tokyonight" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xianyu110&theme=tokyonight" alt="Productive Time" />
 </div>
+
+<!-- GitHub Readme Stats (备用方案) -->
+<!-- 如果上面的卡片无法显示，取消注释下面的代码 -->
+<!--
+<div align="center">
+    <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=xianyu110&show_icons=true&count_private=true&theme=tokyonight" />
+    <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xianyu110&layout=compact&theme=tokyonight" />
+</div>
+-->
+
+
+
+
+### 📈 Activity Graph
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xianyu110&theme=react-dark&bg_color=20232a&color=58a6ff&line=58a6ff&point=40c463&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
 
 ### 🌟 Contribution Graph
 
 <div align="center">
-    <img src="https://github.com/xianyu110/xianyu110/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+    <img src="https://github.com/xianyu110/xianyu110/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ### 👨‍💻 About Me
