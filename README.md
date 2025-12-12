@@ -53,8 +53,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xianyu110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianyu110&layout=compact&theme=tokyonight&border_radius=15" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xianyu110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&cache_seconds=1800" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianyu110&layout=compact&theme=tokyonight&border_radius=15&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ### 🏆 GitHub Trophies
