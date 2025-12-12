@@ -70,7 +70,7 @@
 </div>
 -->
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=xianyu110&theme=algolia&no-frame=true&margin-w=15" alt="GitHub Trophies" />
