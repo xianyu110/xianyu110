@@ -26,8 +26,11 @@
     <a href="https://qm.qq.com/q/Q4YTVK5T6q">
         <img src="https://img.shields.io/badge/QQ-1002569303-0099ff?style=for-the-badge&logo=tencentqq" alt="QQ" />
     </a>
+    <!-- X (Twitter) Badge -->
+    <a href="https://x.com/Nikitka_aktikiN">
+        <img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
 </p>
-
 
 </p>
 
