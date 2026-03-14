@@ -15,7 +15,8 @@
         <img src="https://img.shields.io/badge/Bilibili-B站-fb7299?style=for-the-badge&logo=bilibili" alt="Bilibili" />
     </a>
     <!-- WeChat Official Account Badge -->
-    <a href="https://restname.oss-cn-hangzhou.aliyuncs.com/qrcode_for_gh_c749803541de_1280.jpg" target="_blank">
+    <a href="https://upload.maynor1024.live/file/1773461955906_qrcode_for_gh_c7
+  49803541de_1280.jpg" target="_blank">
         <img src="https://img.shields.io/badge/微信公众号-关注我-07C160?style=for-the-badge&logo=wechat" alt="微信公众号" />
     </a>
     <!-- YouTube Badge -->
