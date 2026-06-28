@@ -1,59 +1,52 @@
-### Hi there, I'm Maynor 👋
+## 我是 Maynor 👋
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;AI+Technology+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-</div>
+您好呀，我是一名 AI 编程工具实践者 + 全栈开发者 + 中文教程作者：
 
-<p align="center">
-<p align="left">
-    <!-- CSDN Badge -->
-    <a href="https://blog.csdn.net/xianyu120">
-        <img src="https://img.shields.io/badge/CSDN-博客-c32136?style=for-the-badge&logo=csdn" alt="CSDN" />
-    </a>
-    <!-- Bilibili Badge -->
-    <a href="https://space.bilibili.com/399102586">
-        <img src="https://img.shields.io/badge/Bilibili-B站-fb7299?style=for-the-badge&logo=bilibili" alt="Bilibili" />
-    </a>
-    <!-- WeChat Official Account Badge -->
-    <a href="https://upload.maynor1024.live/file/1773461955906_qrcode_for_gh_c749803541de_1280.jpg" target="_blank">
-        <img src="https://img.shields.io/badge/微信公众号-MaynorAI-07C160?style=for-the-badge&logo=wechat" alt="微信公众号" />
-    </a>
-    <!-- YouTube Badge -->
-    <a href="https://www.youtube.com/@buguniao537">
-        <img src="https://img.shields.io/badge/YouTube-Profile-red?style=for-the-badge&logo=youtube" alt="Youtube" />
-    </a>
-    <!-- QQ Badge -->
-    <a href="https://qm.qq.com/q/Q4YTVK5T6q">
-        <img src="https://img.shields.io/badge/QQ-1002569303-0099ff?style=for-the-badge&logo=tencentqq" alt="QQ" />
-    </a>
-    <!-- X (Twitter) Badge -->
-    <a href="https://x.com/42782anna">
-        <img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-    </a>
-</p>
+- 👨‍💻 长期关注 AI Coding、AI 图片生成、开发者工具和全栈 Web 应用
+- ✍️ 喜欢把复杂的新工具整理成中文教程、实战案例和可直接复用的项目模板
+- 🚀 做过 OpenClaw、Codex、Claude Code、GPT Image、Gemini、Sora 等方向的教程站和工具项目
+- 🌱 目前主要分享 AI 工具实战、效率工作流、开源项目复盘和国内开发者可落地的使用方案
+- 📫 联系方式：QQ 1002569303
 
-</p>
+也许你需要：
 
-### 🌈 Tech Stack
+- 🏡 开源作品：
+  <a href="https://github.com/xianyu110/awesome-openclaw-tutorial" target="_blank">OpenClaw 中文教程</a> |
+  <a href="https://github.com/xianyu110/gpt-codex" target="_blank">Codex 教程站</a> |
+  <a href="https://github.com/xianyu110/awesome-claudcode-tutorial" target="_blank">Claude Code 教程</a> |
+  <a href="https://github.com/xianyu110/awesome-gptimage2" target="_blank">GPT Image 2 资料站</a> |
+  <a href="https://github.com/xianyu110/CodexPlusPlus" target="_blank">Codex++</a>
+- 🤖 AI 应用：
+  <a href="https://github.com/xianyu110/gemini-nanobanana-pro" target="_blank">Nano Banana Pro</a> |
+  <a href="https://github.com/xianyu110/sora" target="_blank">Sora Web 应用</a> |
+  <a href="https://github.com/xianyu110/grok-task" target="_blank">Grok 自动化任务平台</a>
+- ⭐️ 内容分享：
+  <a href="https://upload.maynor1024.live/file/1773461955906_qrcode_for_gh_c749803541de_1280.jpg" target="_blank">公众号 MaynorAI</a> |
+  <a href="https://blog.csdn.net/xianyu120" target="_blank">CSDN</a> |
+  <a href="https://space.bilibili.com/399102586" target="_blank">B 站</a> |
+  <a href="https://www.youtube.com/@buguniao537" target="_blank">YouTube</a> |
+  <a href="https://x.com/42782anna" target="_blank">X</a>
+- 💬 交流咨询：
+  <a href="https://qm.qq.com/q/Q4YTVK5T6q" target="_blank">QQ 1002569303</a>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p>
+## 热门开源项目
 
-<p align="center">
-    <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+按 GitHub Star 排序，挑选几个更受关注的项目：
 
-### 📊 GitHub Stats
+- [awesome-openclaw-tutorial](https://github.com/xianyu110/awesome-openclaw-tutorial)：OpenClaw 中文教程合集，从安装配置到实战案例和常见坑位一站式梳理。
+- [clawbot](https://github.com/xianyu110/clawbot)：Clawbot 完整配置指南，帮助开发者把 Claude Code 中转环境快速跑起来。
+- [gpt-codex](https://github.com/xianyu110/gpt-codex)：面向国内开发者的 OpenAI Codex 教程网站，覆盖使用入口、配置和实战案例。
+- [gemini-nanobanana-pro](https://github.com/xianyu110/gemini-nanobanana-pro)：基于 Gemini 图像模型的 AI 图片生成与编辑 Web 应用，适合快速体验文生图和改图流程。
+- [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project)：ChatGPT 注册、项目资源和高效使用技巧整理，帮助新用户快速入门 AI 工具。
+- [awesome-claudcode-tutorial](https://github.com/xianyu110/awesome-claudcode-tutorial)：Claude Code 中文教程，从基础使用到团队级开发工作流。
+- [awesome-gptimage2](https://github.com/xianyu110/awesome-gptimage2)：GPT Image 2 中文资料站，聚焦模型能力、提示词框架和商业图片生成场景。
+- [CodexPlusPlus](https://github.com/xianyu110/CodexPlusPlus)：Codex App 外部增强启动器，通过 DevTools 协议注入增强能力，不修改原始安装文件。
+
+## 技术方向
+
+`JavaScript` / `TypeScript` / `React` / `Vue` / `Node.js` / `Python` / `Rust` / `Docker` / `AI Agent` / `AI Coding`
+
+## GitHub 数据
 
 <!-- GitHub Profile Summary Cards -->
 <div align="center">
@@ -76,26 +69,18 @@
 
 
 
-### 📈 Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=xianyu110&theme=react-dark&bg_color=20232a&color=58a6ff&line=58a6ff&point=40c463&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 
-### 🌟 Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
     <img src="https://github.com/xianyu110/xianyu110/blob/output/github-contribution-grid-snake.svg" />
 </div>
-
-### 👨‍💻 About Me
-
-- 🔭 I'm currently working on AI and Full Stack Development
-- 🌱 I'm currently learning Cloud Native and AI Technologies
-- 💬 Ask me about JavaScript, Python, Java, and AI
-- 📫 How to reach me: QQ 1002569303
-- ⚡ Fun fact: I love coding and exploring new technologies
 
 ---
 
