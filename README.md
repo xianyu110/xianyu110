@@ -25,7 +25,7 @@
   <a href="https://blog.csdn.net/xianyu120" target="_blank">CSDN</a> |
   <a href="https://space.bilibili.com/399102586" target="_blank">B 站</a> |
   <a href="https://www.youtube.com/@buguniao537" target="_blank">YouTube</a> |
-  <a href="https://x.com/42782anna" target="_blank">X</a>
+  <a href="https://x.com/MaynorAI1" target="_blank">X</a>
 - 💬 交流咨询：
   <a href="https://qm.qq.com/q/Q4YTVK5T6q" target="_blank">QQ 1002569303</a>
 
