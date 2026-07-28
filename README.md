@@ -18,6 +18,7 @@
   <a href="https://github.com/xianyu110/CodexPlusPlus" target="_blank">Codex++</a>
 - 🤖 AI 应用：
   <a href="https://github.com/xianyu110/gemini-nanobanana-pro" target="_blank">Nano Banana Pro</a> |
+  <a href="https://gptimage2.asia/" target="_blank">GPT Image 2 官网</a> |
   <a href="https://github.com/xianyu110/sora" target="_blank">Sora Web 应用</a> |
   <a href="https://github.com/xianyu110/grok-task" target="_blank">Grok 自动化任务平台</a>
 - ⭐️ 内容分享：
